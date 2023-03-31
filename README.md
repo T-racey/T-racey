@@ -13,6 +13,8 @@ I’m really interested in sports tech and hope I have the opportunity to explor
 
 **This would be a dream come true!**:+1:
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=T=racey)](https://git.io/streak-stats)
+
 <!--
 **T-racey/T-racey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
